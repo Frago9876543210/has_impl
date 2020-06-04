@@ -1,0 +1,11 @@
+[package]
+name = "has_impl"
+version = "0.1.0"
+authors = ["Frago9876543210"]
+edition = "2018"
+license = "MIT"
+description = "Check if trait is implemented for type in compile time"
+repository = "https://github.com/Frago9876543210/has_impl"
+documentation = "https://docs.rs/has_impl"
+keywords = ["has", "impl", "at", "compile", "time"]
+readme = "README.md"
